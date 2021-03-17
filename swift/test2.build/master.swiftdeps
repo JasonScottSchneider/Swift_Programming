@@ -1,0 +1,5 @@
+version: "Swift version 5.1.3 (swift-5.1.3-RELEASE)"
+options: "d508041b3bcdfe7397c2b85d8fbb69c5"
+build_time: [1615960315, 210072195]
+inputs:
+  "/home/jason/test2/Sources/test2/main.swift": [1615960242, 183724997]
